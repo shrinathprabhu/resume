@@ -88,7 +88,9 @@
           Razorpay (Payment gateway), modified image properties using
           Imagemagick, created beautiful graphs for admin dashboard using
           ngx-charts, integrated apis for creating user in Salesforce and Office
-          365 and inviting user to Asana
+          365 and inviting user to Asana, integrated Sentry for capturing
+          errors, created backups of database, zipped it and uploaded to google
+          cloud storage
         </p>
       </li>
       <li>
@@ -109,7 +111,10 @@
           <strong>Bonus Integrations:</strong>
           <ul>
             <li>Payments and subscriptions: Paypal, Stripe, Braintree</li>
-            <li>Single sign on: Google, Facebook, Linkedin, Amazon</li>
+            <li>
+              Single sign on (Without using advanced libraries like passport):
+              Google, Facebook, Linkedin, Amazon
+            </li>
             <li>
               Others: Websockets, MQTT, Middleware Proxy Server, RBAC (Role
               based access control), SQS, IMAP (for incoming mails), Fetched
@@ -125,7 +130,7 @@
           Hashbinary Services LLP
         </a>
         <div class="main-mini-subtitle">
-          Web Developer Intern (May 2018 - April 2019)
+          Web Development Intern (May 2018 - April 2019)
         </div>
         <p>
           Worked on an on-demand aggregation of car-wash services where user can
@@ -137,7 +142,8 @@
           Firebase Push Notifications, Twilio (SMS gateway), Nodemailer (Send
           mails using SMTP), AWS S3, GridFS, Google Maps API, GeoJSON, Pug,
           converted html to pdf using a library, converted excel data to json
-          using xlsx, Windcave PxPay(Formerly PaymentExpress) and APIDoc.js
+          using xlsx, Windcave PxPay(Formerly PaymentExpress) and generated docs
+          using inline documentation library APIDoc.js
         </p>
       </li>
     </ul>
