@@ -279,7 +279,7 @@
   position: absolute;
   top: 180px;
   height: fit-content;
-  padding-bottom: 360px;
+  padding-bottom: 600px;
   background-color: #35495e;
   width: calc(30% + 80px);
   color: white;
@@ -314,7 +314,7 @@
 .contact-container {
   margin-bottom: 10px;
 }
-@media only screen and (min-width: 320px) and (max-width: 812px) {
+@media only screen and (min-width: 320px) and (max-width: 960px) {
   .side-bar {
     position: relative;
     top: 0;

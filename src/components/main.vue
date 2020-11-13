@@ -157,6 +157,34 @@
       I love to play cricket, read answers on quora and do some random internet
       stuff #SocialMediaAddict
     </p>
+    <p class="main-title">
+      <img src="@/assets/interests.png" class="title-icon" />
+      Additional Links
+    </p>
+    <a href="https://github.com/shrinathprabhu" target="__blank">
+      <image-transition
+        logo="skills/github.svg"
+        tooltip="Github profile"
+        height="50px"
+      />
+    </a>
+    <a href="https://www.quora.com/profile/Shrinath-Prabhu" target="__blank">
+      <image-transition
+        logo="quora.png"
+        tooltip="Quora profile"
+        height="50px"
+      />
+    </a>
+    <a
+      href="https://stackoverflow.com/users/9367994/shrinath-prabhu"
+      target="__blank"
+    >
+      <image-transition
+        logo="stackoverflow.svg"
+        tooltip="Stackoverflow profile"
+        height="50px"
+      />
+    </a>
     <app-footer />
   </div>
 </template>
@@ -200,7 +228,7 @@
   margin-right: 0;
 }
 
-@media only screen and (min-width: 320px) and (max-width: 812px) {
+@media only screen and (min-width: 320px) and (max-width: 960px) {
   .main {
     position: relative;
     width: 100%;

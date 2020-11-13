@@ -24,9 +24,9 @@
   transition: transform 0.3s ease-out;
   transform: scale(1.2);
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 2),
-  only screen and (min-device-width: 320px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3),
-  only screen and (min-device-width: 320px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 4) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2),
+  only screen and (min-device-width: 320px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 3),
+  only screen and (min-device-width: 320px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 4) {
   .avatar {
     position: absolute;
     top: calc(160px - 60px);
