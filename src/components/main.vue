@@ -158,7 +158,7 @@
       stuff #SocialMediaAddict
     </p>
     <p class="main-title">
-      <img src="@/assets/interests.png" class="title-icon" />
+      <img src="@/assets/link.png" class="title-icon" />
       Additional Links
     </p>
     <a href="https://github.com/shrinathprabhu" target="__blank">
