@@ -86,8 +86,8 @@
       <ul>
         <li>
           <strong>Frontend:</strong> Vue, Vuetify (MaterialUI library), Vuex
-          (Central state management), Vue-axios (For ajax requests) and
-          Vue-router(For navigating to different views)
+          (Central state management), Vue-axios (For ajax requests),
+          Vue-router(For navigating to different views) and IndexedDB
         </li>
         <li>
           <strong>Backend:</strong> Node.js, Express.js, Mongoose, Cookie-parser
