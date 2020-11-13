@@ -151,6 +151,7 @@
       I love to play cricket, read answers on quora and do some random internet
       stuff #SocialMediaAddict
     </p>
+    <app-footer />
   </div>
 </template>
 
@@ -209,9 +210,10 @@
 </style>
 
 <script>
+import AppFooter from "./app-footer.vue";
 import ImageTransition from "./image-transition.vue";
 export default {
   name: "main-bar",
-  components: { ImageTransition },
+  components: { ImageTransition, AppFooter },
 };
 </script>

@@ -279,7 +279,7 @@
   position: absolute;
   top: 180px;
   height: fit-content;
-  padding-bottom: 200px;
+  padding-bottom: 360px;
   background-color: #35495e;
   width: calc(30% + 80px);
   color: white;
@@ -337,9 +337,5 @@ export default {
   data: () => ({
     name: process.env.VUE_APP_NAME,
   }),
-  mounted() {
-    console.log(this.$refs["side-bar"].style);
-    this.$refs["side-bar"].style.height = document.body.scrollHeight;
-  },
 };
 </script>
