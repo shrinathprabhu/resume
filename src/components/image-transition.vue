@@ -29,12 +29,6 @@
   transform: scale(1.5);
   transition: filter 0.3s ease-out, transform 0.3s ease-out;
 }
-
-@media only screen and (min-width: 320px) and (max-width: 812px) {
-  .image-transition:hover {
-    filter: drop-shadow(2px 2px 4px #97d4b4);
-  }
-}
 </style>
 
 <script>
