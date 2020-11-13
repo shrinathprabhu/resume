@@ -24,10 +24,10 @@
   margin-top: 62px;
   margin-right: -130px;
   padding: 15px;
-  background-color: #35495e;
 }
 a {
-  color: #97d4b4;
+  color: #35495e;
+  text-decoration: underline;
 }
 </style>
 

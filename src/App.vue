@@ -2,8 +2,10 @@
   <div id="app">
     <app-bar />
     <avatar />
-    <side-bar />
-    <main-bar />
+    <div style="position: relative">
+      <side-bar />
+      <main-bar />
+    </div>
   </div>
 </template>
 
