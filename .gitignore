@@ -23,5 +23,5 @@ pnpm-debug.log*
 *.sw?
 
 .env
-src/assets/photo.png
+photo.png
 deploy.sh
