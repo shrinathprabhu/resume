@@ -19,9 +19,15 @@
     <image-transition logo="skills/html5.svg" tooltip="HTML 5" />
     <image-transition logo="skills/css3.svg" tooltip="CSS 3" />
     <image-transition
-      logo="typescript.svg"
+      logo="skills/typescript.svg"
       tooltip="Typescript"
-      height="65px"
+      height="60px"
+    />
+    <image-transition logo="skills/tailwind.svg" tooltip="Tailwind CSS" />
+    <image-transition
+      logo="skills/bootstrap.svg"
+      tooltip="Bootstrap"
+      height="60px"
     />
     <div class="main-subtitle">Backend and database</div>
     <image-transition logo="skills/nodejs.svg" tooltip="Node.js" />
@@ -98,7 +104,7 @@
           Hashbinary Services LLP
         </a>
         <div class="main-mini-subtitle">
-          Full Stack Web Developer (May 2019 - April 2020)
+          Full Stack Web Developer (May 2019 - March 2020)
         </div>
         <div class="p">
           Worked on a Chrome extension, that helps user fetch cheaper prices on
